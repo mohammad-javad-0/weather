@@ -8,15 +8,6 @@ This is a simple desktop application built with Python and Tkinter that fetches 
 - Error Handling: Handles common errors like invalid city names or empty input with appropriate messages.
 - Graphical User Interface (GUI): Built using Tkinter, providing a user-friendly interface.
 
-## Requirements
-
-The project requires the following Python packages, listed in the requirements.txt file:
-
-requests
-tk
-To install the necessary dependencies, you can use pip:
-
-pip install -r requirements.txt
 ## Usage
 
 1. Clone the repository:
@@ -25,7 +16,6 @@ git clone https://github.com/mohammad-javad-0/weather-app.git
 cd weather-app
 2. Ensure you have installed the required packages:
 
-pip install -r requirements.txt
 3. Run the application:
 
 python weather_app.py
