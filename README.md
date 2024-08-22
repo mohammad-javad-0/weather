@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/mohammad-javad-0/weather-app.git
 cd weather-app
 2. Ensure you have installed the required packages:
 
